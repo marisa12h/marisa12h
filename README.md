@@ -19,7 +19,7 @@ Hola, soy Marisa espejo torres, tengo 25 años y este es mi perfil de Github.
 |     3|   Videojuegos |
 
 <details>
- <summary>Las cosas que más me gustan</summary>
+ <summary>Las asignaturas que más me gustan</summary>
 
 | Rank |  Asignaturas favoritas  |
 |-----:|-------------------------|
