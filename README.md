@@ -8,6 +8,8 @@ Hola, este es mi perfil.
 
 ##about me
 
+<!-- Más tarde pondre más información sobre mi-->
+
 Hola, soy Marisa espejo torres, tengo 25 años y este es mi perfil de Github.
 
 | Rank |   Aficiones   |
@@ -26,3 +28,8 @@ Hola, soy Marisa espejo torres, tengo 25 años y este es mi perfil de Github.
 |     3|       Base de datos     |
 
 </details>
+
+---
+>Está es mi primera vez utilizando Github
+
+-Marisa Espejo Torres
